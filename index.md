@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+# Michael Doggett's home page
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
