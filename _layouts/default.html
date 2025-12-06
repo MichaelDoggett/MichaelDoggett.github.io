@@ -13,14 +13,16 @@
     {% include head-custom.html %}
   </head>
   <body>
-<!--    <div class="wrapper"; style="place-items: center;" > -->
-<div       style="display: flex; flex-direction: row; align-items: center; justify-content: center;" >
+   <div class="wrapper"; style="place-items: center;" >
+
       <header>
 <!---        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> --->
+        <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
         <h1>Michael Doggett</h1>
         <h2>Associate Professor</h2>
         <h2>Lund University</h2>
-
+        </div>
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
