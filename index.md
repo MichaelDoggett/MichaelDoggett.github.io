@@ -31,11 +31,11 @@ I completed my Bachelor of Computer Science in 1990, my Bachelor of Electrical E
 
 ### Program Committees
 
-* Eurographics 2016, 2020, 2021, 2025, 2026
-  * Best Paper Committee 2020, 2025
-* Computer Graphics International
-* High-Performance Graphics 2019, 2020, 2021, 2022, 2025
-* Eurographics Symposium on Rendering 2016
+- Eurographics 2016, 2020, 2021, 2025, 2026
+  - Best Paper Committee 2020, 2025
+- Computer Graphics International
+- High-Performance Graphics 2019, 2020, 2021, 2022, 2025
+- Eurographics Symposium on Rendering 2016
 
 ### Reviewing
 
