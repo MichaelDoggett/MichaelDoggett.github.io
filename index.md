@@ -5,123 +5,36 @@ layout: default
 
 # Michael Doggett's home page
 
+My research interests center around image synthesis using both custom and programmable hardware.
+
+From 2018 to 2020 I was a Visiting Professor at <a class="external-link-new-window" href="https://youtu.be/RueT9FhiCtg" title="Opens internal link in current window">Facebook Reality Labs</a> in Redmond, Washington, U.S.A working on Low-Power Ray Tracing Hardware.
+
+From 2001 to 2009 I was a Graphics Hardware Architect at ATI in Marlborough, Massachusetts, U.S.A. ATI was purchased by&nbsp;<a href="http://www.amd.com/">AMD</a>&nbsp;in 2006. While there I worked on the XBox360, Radeon 2900, 4800, 5800 and 6800.
+
+From 1998 to 2001 I was a researcher at the WSI/GRIS computer graphics lab at the <a href="http://www.uni-tuebingen.de/">University of Tübingen</a>, Germany. While there I worked on the VIZARDII project for hardware accelerated Volume Rendering, and displacement map rendering using custom hardware and commodity graphics hardware and subdivision surface rendering.
+
+From 1996 to 1998, I worked as Chief Engineer at Conja, a Special Effects, Animation and Design company in Sydney, Australia.
+
+I completed my Bachelor of Computer Science in 1990, my Bachelor of Electrical Engineering in 1992, and my Doctor of Philosopy in 1997 all at the <a href="http://www.cse.unsw.edu.au/">School of Computer Science and Engineering</a> at <a href="http://www.unsw.edu.au/">The University of New South Wales</a>, Sydney, Australia.
+
+### Teaching
+
+* EDAF80 <a class="external-link-new-window" href="http://cs.lth.se/edaf80/" title="Opens external link in new window">Computer Graphics</a>, HT1, Fall, 2014-25
+* EDAN35 <a class="external-link-new-window" href="http://cs.lth.se/edan35" title="Opens external link in new window">High Performance Computer Graphics</a>, HT2, Fall, 2010-17,20-25
+* <a href="https://michaeldoggett.github.io/masters.html">Masters Thesis supervised</a>
+* <a href="https://www.eugloh.eu/">EUGLOH</a> Summer School "Immersive Media for Health and Well-being" (ESSIM), July 2023
+* EDAN30&nbsp;Photorealistic Computer Graphics, VT2, Spring, 2011, 2012, 2013, 2014
+* EDA101&nbsp;Advanced Shading and Rendering, VT2, Spring, 2010
+* EDA075&nbsp;Mobile Computer Graphics, HT2, Fall, 2009
+
+### Professional Activites
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Masters](./masters.html).
 
-There should be whitespace between paragraphs.
+[links](./links.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[Graphics](./graphics.html).
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
