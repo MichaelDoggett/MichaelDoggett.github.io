@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-# Michael Doggett's home page
-
 My research interests center around image synthesis using both custom and programmable hardware.
 
 From 2018 to 2020 I was a Visiting Professor at <a class="external-link-new-window" href="https://youtu.be/RueT9FhiCtg" title="Opens internal link in current window">Facebook Reality Labs</a> in Redmond, Washington, U.S.A working on Low-Power Ray Tracing Hardware.
@@ -28,13 +25,48 @@ I completed my Bachelor of Computer Science in 1990, my Bachelor of Electrical E
 * EDA075&nbsp;Mobile Computer Graphics, HT2, Fall, 2009
 
 ### Professional Activites
+* EIC ACM [PACMCGIT](https://dl.acm.org/journal/pacmcgit)
+* Computers &amp; Graphics (Associate Editor)
+* Computer Graphics Forum (Associate Editor), 2017-2019
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Program Committees
 
-[Masters](./masters.html).
+* Eurographics 2016, 2020, 2021, 2025, 2026
+  * Best Paper Committee 2020, 2025
+* Computer Graphics International
+* High-Performance Graphics 2019, 2020, 2021, 2022, 2025
+* Eurographics Symposium on Rendering 2016
 
-[links](./links.html).
+### Reviewing
 
-[Graphics](./graphics.html).
+* ACM SIGGRAPH
+* ACM SIGGRAPH Asia
+* Eurographics
+* TVCG: 2024
+
+### Conference Organisation
+
+* 2026 - General Co-chair, ACM SIGGRAPH/EuroGraphics <a class="external-link-new-window" href="https://highperformancegraphics.org" title="Opens internal link in current window">High-Performance Graphics</a> Los Angeles, July 17-19
+* 2025 - General Co-chair, ACM SIGGRAPH/EuroGraphics <a class="external-link-new-window" href="https://highperformancegraphics.org/2025/index.html" title="Opens internal link in current window">High-Performance Graphics</a> Copenhagen, June 23-25
+* 2023 - Papers Co-chair, ACM SIGGRAPH <a class="external-link-new-window" href="https://i3dsymposium.org/2023/" title="Opens internal link in current window">Symposium on Interactive 3D Graphics and Games</a> Online: May 3-5
+* 2022 - General Co-chair, ACM SIGGRAPH <a class="external-link-new-window" href="https://i3dsymposium.org/2022/" title="Opens internal link in current window">Symposium on Interactive 3D Graphics and Games</a> Online: May 3-5
+* I've been involved with the organisation of the <a href="http://www.graphicshardware.org/">Graphics Hardware</a> conference since 2000, including General co-chair in 2004, 2006, 2008, Papers chair in 2002 and Program chair in 2003. In 2009 Graphics Hardware merged with the IEEE Interactive Ray Tracing Symposium and became <a href="http://www.highperformancegraphics.org/">High Performance Graphics</a>.
+
+### PhD Committees
+
+* 2022 Wito Engelke <a class="external-link-new-window" href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-183844" title="Opens internal link in current window">link</a>
+
+### Practical Impact
+
+* The <a href="https://devblogs.nvidia.com/texture-space-shading/">Texture Space Shading (TSS)</a> feature introduced in 2018 in NVIDIA's Turing GPU architecture has its direct roots in our 2011 work on <a href="http://people.csail.mit.edu/jrk/decoupledsampling/">decoupled sampling for graphics pipelines</a> (with Jonathan Ragan-Kelley & al.).
+* I was involved in the Vulkan extension for ray tracing, <a href="https://docs.vulkan.org/refpages/latest/refpages/source/VK_KHR_ray_tracing_pipeline.html">VK_KHR_ray_tracing_pipeline</a>
+    
+#### Links
+
+* <a href="https://michaeldoggett.github.io/links.html">Research and PhDs</a>
+* <a href="https://michaeldoggett.github.io/graphics.html">Computer Graphics</a>
+
+My Erdös number is <a href="https://www.csauthors.net/distance/michael-c-doggett/paul-erdos">4
+
 
 
