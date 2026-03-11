@@ -2,17 +2,27 @@
 layout: default
 ---
 
+### PhD Position
+I'm currently looking for a new PhD student to start in the fall working on **Neural Graphics**. 
+<a href="https://lu.varbi.com/en/what:job/jobID:912043/">Apply here!</a>
+
+
 My research interests center around image synthesis using both custom and programmable hardware.
 
 From 2018 to 2020 I was a Visiting Professor at <a class="external-link-new-window" href="https://youtu.be/RueT9FhiCtg" title="Opens internal link in current window">Facebook Reality Labs</a> in Redmond, Washington, U.S.A working on Low-Power Ray Tracing Hardware.
 
-From 2001 to 2009 I was a Graphics Hardware Architect at ATI in Marlborough, Massachusetts, U.S.A. ATI was purchased by&nbsp;<a href="http://www.amd.com/">AMD</a>&nbsp;in 2006. While there I worked on the XBox360, Radeon 2900, 4800, 5800 and 6800.
+From 2001 to 2009 I was a Graphics Hardware Architect at ATI in Marlborough, Massachusetts, U.S.A. ATI was purchased by <a href="http://www.amd.com/">AMD</a> in 2006. While there I worked on the XBox360, Radeon 2900, 4800, 5800 and 6800.
 
 From 1998 to 2001 I was a researcher at the WSI/GRIS computer graphics lab at the <a href="http://www.uni-tuebingen.de/">University of Tübingen</a>, Germany. While there I worked on the VIZARDII project for hardware accelerated Volume Rendering, and displacement map rendering using custom hardware and commodity graphics hardware and subdivision surface rendering.
 
 From 1996 to 1998, I worked as Chief Engineer at Conja, a Special Effects, Animation and Design company in Sydney, Australia.
 
 I completed my Bachelor of Computer Science in 1990, my Bachelor of Electrical Engineering in 1992, and my Doctor of Philosopy in 1997 all at the <a href="http://www.cse.unsw.edu.au/">School of Computer Science and Engineering</a> at <a href="http://www.unsw.edu.au/">The University of New South Wales</a>, Sydney, Australia.
+
+### Publications
+Most of my publications can be found on the Lund University Graphics Group <a href="https://fileadmin.cs.lth.se/graphics/publications.shtml">publications page</a>.
+<a href="https://scholar.google.com/citations?user=jkLpWccAAAAJ&hl=en">Google Scholar</a>, <a href="https://dblp.org/pid/76/4491.html">DBLP</a>, <a href="https://portal.research.lu.se/en/persons/michael-doggett/">LU Research Portal</a>.
+
 
 ### Teaching
 
