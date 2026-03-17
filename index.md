@@ -30,9 +30,9 @@ Most of my publications can be found on the Lund University Graphics Group <a hr
 * EDAN35 <a class="external-link-new-window" href="http://cs.lth.se/edan35" title="Opens external link in new window">High Performance Computer Graphics</a>, HT2, Fall, 2010-17,20-25
 * <a href="https://michaeldoggett.github.io/masters.html">Masters Thesis supervised</a>
 * <a href="https://www.eugloh.eu/">EUGLOH</a> Summer School "Immersive Media for Health and Well-being" (ESSIM), July 2023
-* EDAN30&nbsp;Photorealistic Computer Graphics, VT2, Spring, 2011, 2012, 2013, 2014
-* EDA101&nbsp;Advanced Shading and Rendering, VT2, Spring, 2010
-* EDA075&nbsp;Mobile Computer Graphics, HT2, Fall, 2009
+* EDAN30 Photorealistic Computer Graphics, VT2, Spring, 2011, 2012, 2013, 2014
+* EDA101 Advanced Shading and Rendering, VT2, Spring, 2010
+* EDA075 Mobile Computer Graphics, HT2, Fall, 2009
 
 ### Professional Activites
 * EIC ACM [PACMCGIT](https://dl.acm.org/journal/pacmcgit)
@@ -62,9 +62,10 @@ Most of my publications can be found on the Lund University Graphics Group <a hr
 * 2022 - General Co-chair, ACM SIGGRAPH <a class="external-link-new-window" href="https://i3dsymposium.org/2022/" title="Opens internal link in current window">Symposium on Interactive 3D Graphics and Games</a> Online: May 3-5
 * I've been involved with the organisation of the <a href="http://www.graphicshardware.org/">Graphics Hardware</a> conference since 2000, including General co-chair in 2004, 2006, 2008, Papers chair in 2002 and Program chair in 2003. In 2009 Graphics Hardware merged with the IEEE Interactive Ray Tracing Symposium and became <a href="http://www.highperformancegraphics.org/">High Performance Graphics</a>.
 
-### PhD Committees
+### PhD Defence Committees
 
-* 2022 Wito Engelke <a class="external-link-new-window" href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-183844" title="Opens internal link in current window">link</a>
+* 2026-03-13 Farhan Rasheed, [Topology-Driven Visual Analysis of Structures in Dynamic Spatial Data](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-221249)
+* 2022-04-29 Wito Engelke, <a class="external-link-new-window" href="http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-183844" title="Opens internal link in current window">Exploring the Invisible: Finding Structure in Scientific Data</a>
 
 ### Practical Impact
 
