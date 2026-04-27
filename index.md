@@ -2,11 +2,6 @@
 layout: default
 ---
 
-### PhD Position
-I'm currently looking for a new PhD student to start in the fall working on **Neural Graphics**. 
-<a href="https://lu.varbi.com/en/what:job/jobID:912043/">Apply here!</a>
-
-
 My research interests center around image synthesis using both custom and programmable hardware.
 
 From 2018 to 2020 I was a Visiting Professor at <a class="external-link-new-window" href="https://youtu.be/RueT9FhiCtg" title="Opens internal link in current window">Facebook Reality Labs</a> in Redmond, Washington, U.S.A working on Low-Power Ray Tracing Hardware.
